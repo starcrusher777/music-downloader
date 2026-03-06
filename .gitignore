@@ -45,3 +45,15 @@ Thumbs.db
 # Downloads
 downloads/
 
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Cursor
+.cursor/
